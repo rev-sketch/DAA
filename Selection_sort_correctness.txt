@@ -1,0 +1,3 @@
+A sorting method called selection sort separates the input into sorted and unsorted regions. It looks for the least element in the unsorted zone during each iteration and replaces it with the first element found there. Until the entire array is sorted in ascending order, this process is repeated. The smallest unsorted element is consistently chosen and put in the right place by a loop invariant, which guarantees the algorithm's correctness.
+
+Selection sort has an O(n^2) temporal complexity, where n is the number of elements. This is due to the fact that, in the worst scenario, finding the minimum requires the algorithm to compare every element in the unsorted region. Selection sort is accurate, but it is less effective due to its quadratic time complexity.
