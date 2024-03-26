@@ -1,3 +1,10 @@
+Inserting key-value pairs:
+(1, 10)
+(2, 20)
+(3, 30)
+(17, 170)
+(33, 330)
+(65, 650)
 HashTable after insertions:
 [0]: 
 [1]: 
